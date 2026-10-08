@@ -1,0 +1,522 @@
+[
+  {
+    "id": "dalba",
+    "brand": "d’Alba",
+    "name": "UV Essence Tone-Up Sun Cream",
+    "category": "Sun care",
+    "image": "assets/01_dalba.jpg",
+    "intro": {
+      "en": "50ml tone-up sun cream. Follow the package directions.",
+      "vi": "Kem chống nắng với hiệu ứng nâng tông.",
+      "ko": "톤업 마무리의 선케어."
+    },
+    "video": "assets/review_ep1_suncream.mp4",
+    "poster": "assets/review_ep1_suncream_poster.jpg",
+    "markets": {
+      "vn": {
+        "url": null,
+        "status": "pending"
+      },
+      "sg": {
+        "url": null,
+        "status": "pending"
+      },
+      "kr": {
+        "url": null,
+        "status": "pending"
+      }
+    },
+    "sg_detail_plan": {
+      "sections": [
+        "Meet the product with Lia",
+        "Exact size and variant",
+        "Texture and routine placement",
+        "How to use",
+        "Ingredients and cautions",
+        "Delivery to Singapore",
+        "Order on Shopee"
+      ],
+      "image_slots": [
+        "Front packaging",
+        "Back label",
+        "Texture or format",
+        "Lia introduction"
+      ],
+      "status": "supply_and_images_pending"
+    },
+    "description_en": "50ml tone-up sun cream. Follow the package directions.",
+    "directions_en": "Follow the directions and cautions printed on the confirmed supplied product.",
+    "cautions_en": "For external use only. Stop use if irritation occurs. Lia is an AI-created character.",
+    "confirmation_note": "색상·한국 공급품 라벨·SPF 표기 확인",
+    "product_source": "https://www.dalba.co.kr/goods/goods_view.php?goodsNo=1000000094",
+    "size_label": "50ml — variant pending"
+  },
+  {
+    "id": "cosrx",
+    "brand": "COSRX",
+    "name": "Advanced Snail 96 Mucin Power Essence",
+    "category": "Essence",
+    "image": "assets/02_cosrx.jpg",
+    "intro": {
+      "en": "A lightweight essence for a simple hydration step. Add it after cleansing and toning, before your moisturiser.",
+      "vi": "Tinh chất cho chu trình chăm sóc da.",
+      "ko": "스킨케어 루틴을 위한 에센스."
+    },
+    "video": null,
+    "poster": null,
+    "markets": {
+      "vn": {
+        "url": null,
+        "status": "pending"
+      },
+      "sg": {
+        "url": null,
+        "status": "pending"
+      },
+      "kr": {
+        "url": null,
+        "status": "pending"
+      }
+    },
+    "sg_detail_plan": {
+      "sections": [
+        "Meet the product with Lia",
+        "Exact size and variant",
+        "Texture and routine placement",
+        "How to use",
+        "Ingredients and cautions",
+        "Delivery to Singapore",
+        "Order on Shopee"
+      ],
+      "image_slots": [
+        "Front packaging",
+        "Back label",
+        "Texture or format",
+        "Lia introduction"
+      ],
+      "status": "supply_and_images_pending"
+    },
+    "description_en": "A lightweight essence for a simple hydration step. Add it after cleansing and toning, before your moisturiser.",
+    "directions_en": "Apply a small amount after cleansing and toning. Gently pat, then follow with moisturiser.",
+    "cautions_en": "For external use only. Follow the package directions and cautions. Stop use if irritation occurs. Check the ingredient list if you have known sensitivities. Lia is an AI-created character; this page does not describe her personal use.",
+    "confirmation_note": "공급품의 100ml 규격·바코드·전성분·사용기한·제조국 라벨 확인",
+    "product_source": "https://www.cosrx.com/collections/acne-blemishes/products/advanced-snail-96-mucin-power-essence",
+    "size_label": "100ml"
+  },
+  {
+    "id": "tirtir",
+    "brand": "TIRTIR",
+    "name": "Mask Fit Red Cushion",
+    "category": "Cushion",
+    "image": "assets/03_tirtir.jpg",
+    "intro": {
+      "en": "A cushion foundation. Select the shade only after confirming the supplied stock.",
+      "vi": "Chọn tông màu phù hợp trước khi mua.",
+      "ko": "구매 전 나에게 맞는 색상을 확인하세요."
+    },
+    "video": null,
+    "poster": null,
+    "markets": {
+      "vn": {
+        "url": null,
+        "status": "pending"
+      },
+      "sg": {
+        "url": null,
+        "status": "pending"
+      },
+      "kr": {
+        "url": null,
+        "status": "pending"
+      }
+    },
+    "sg_detail_plan": {
+      "sections": [
+        "Meet the product with Lia",
+        "Exact size and variant",
+        "Texture and routine placement",
+        "How to use",
+        "Ingredients and cautions",
+        "Delivery to Singapore",
+        "Order on Shopee"
+      ],
+      "image_slots": [
+        "Front packaging",
+        "Back label",
+        "Texture or format",
+        "Lia introduction"
+      ],
+      "status": "supply_and_images_pending"
+    },
+    "description_en": "A cushion foundation. Select the shade only after confirming the supplied stock.",
+    "directions_en": "Follow the directions and cautions printed on the confirmed supplied product.",
+    "cautions_en": "For external use only. Stop use if irritation occurs. Lia is an AI-created character.",
+    "confirmation_note": "본품 용량·호수·리필 여부 확정",
+    "product_source": "https://tirtir.global/collections/april-beauty-bloom-single-2026/products/mask-fit-red-cushion",
+    "size_label": "Size and shade pending"
+  },
+  {
+    "id": "biodance",
+    "brand": "Biodance",
+    "name": "Bio-Collagen Real Deep Mask",
+    "category": "Mask",
+    "image": "assets/04_biodance.jpg",
+    "intro": {
+      "en": "A two-piece hydrogel mask for a longer skincare session. Explore the format in Lia’s product introduction.",
+      "vi": "Khám phá mặt nạ qua video của Lia.",
+      "ko": "리아 영상으로 살펴보는 마스크."
+    },
+    "video": "assets/review_ep2_mask.mp4",
+    "poster": "assets/review_ep2_mask_poster.jpg",
+    "markets": {
+      "vn": {
+        "url": null,
+        "status": "pending"
+      },
+      "sg": {
+        "url": null,
+        "status": "pending"
+      },
+      "kr": {
+        "url": null,
+        "status": "pending"
+      }
+    },
+    "sg_detail_plan": {
+      "sections": [
+        "Meet the product with Lia",
+        "Exact size and variant",
+        "Texture and routine placement",
+        "How to use",
+        "Ingredients and cautions",
+        "Delivery to Singapore",
+        "Order on Shopee"
+      ],
+      "image_slots": [
+        "Front packaging",
+        "Back label",
+        "Texture or format",
+        "Lia introduction"
+      ],
+      "status": "supply_and_images_pending"
+    },
+    "description_en": "A two-piece hydrogel mask for a longer skincare session. Explore the format in Lia’s product introduction.",
+    "directions_en": "Apply the mask after preparing clean skin, following the supplied pack instructions. The manufacturer describes daytime use for 3–4 hours or overnight use. Remove if discomfort occurs.",
+    "cautions_en": "For external use only. Follow the package directions and cautions. Stop use if irritation occurs. Check the ingredient list if you have known sensitivities. Lia is an AI-created character; this page does not describe her personal use.",
+    "confirmation_note": "34g×4매 밀봉 박스 공급 확인. 단품 낱장 이미지·가격과 혼동 금지",
+    "product_source": "https://biodance.com/pages/bio-collagen-real-deep-mask",
+    "size_label": "34g × 4 sheets"
+  },
+  {
+    "id": "romnd",
+    "brand": "rom&nd",
+    "name": "Juicy Lasting Tint",
+    "category": "Lip",
+    "image": "assets/06_romnd.jpg",
+    "intro": {
+      "en": "A glossy lip tint with a syrup-like finish. Choose a confirmed shade and check the product photos before ordering.",
+      "vi": "Thêm chút màu sắc cho mỗi ngày.",
+      "ko": "일상에 더하는 립 컬러."
+    },
+    "video": "assets/review_ep3_tint.mp4",
+    "poster": "assets/review_ep3_tint_poster.jpg",
+    "markets": {
+      "vn": {
+        "url": null,
+        "status": "pending"
+      },
+      "sg": {
+        "url": null,
+        "status": "pending"
+      },
+      "kr": {
+        "url": null,
+        "status": "pending"
+      }
+    },
+    "sg_detail_plan": {
+      "sections": [
+        "Meet the product with Lia",
+        "Exact size and variant",
+        "Texture and routine placement",
+        "How to use",
+        "Ingredients and cautions",
+        "Delivery to Singapore",
+        "Order on Shopee"
+      ],
+      "image_slots": [
+        "Front packaging",
+        "Back label",
+        "Texture or format",
+        "Lia introduction"
+      ],
+      "status": "supply_and_images_pending"
+    },
+    "description_en": "A glossy lip tint with a syrup-like finish. Choose a confirmed shade and check the product photos before ordering.",
+    "directions_en": "Follow the directions printed on the supplied product. Colour may appear different depending on your natural lip tone and display settings.",
+    "cautions_en": "For external use only. Follow the package directions and cautions. Stop use if irritation occurs. Check the ingredient list if you have known sensitivities. Lia is an AI-created character; this page does not describe her personal use.",
+    "confirmation_note": "현재 상품명은 등록 후보. The Juicy Lasting Tint 리뉴얼 제품과 혼동 금지. 색상별 공급·신고 확인 후 제목·사진 교체",
+    "product_source": "https://www.romandglobal.com/en-ca/products/rom-nd-juicy-lasting-tint-21ss",
+    "size_label": "5.5g — shade pending"
+  },
+  {
+    "id": "anua",
+    "brand": "Anua",
+    "name": "Heartleaf Pore Control Cleansing Oil",
+    "category": "Cleanser",
+    "image": "assets/07_anua.jpg",
+    "intro": {
+      "en": "An oil cleanser for removing makeup and sunscreen as the first step of your cleansing routine.",
+      "vi": "Tìm hiểu bước làm sạch da.",
+      "ko": "가까이에서 살펴보는 클렌징 단계."
+    },
+    "video": null,
+    "poster": null,
+    "markets": {
+      "vn": {
+        "url": null,
+        "status": "pending"
+      },
+      "sg": {
+        "url": null,
+        "status": "pending"
+      },
+      "kr": {
+        "url": null,
+        "status": "pending"
+      }
+    },
+    "sg_detail_plan": {
+      "sections": [
+        "Meet the product with Lia",
+        "Exact size and variant",
+        "Texture and routine placement",
+        "How to use",
+        "Ingredients and cautions",
+        "Delivery to Singapore",
+        "Order on Shopee"
+      ],
+      "image_slots": [
+        "Front packaging",
+        "Back label",
+        "Texture or format",
+        "Lia introduction"
+      ],
+      "status": "supply_and_images_pending"
+    },
+    "description_en": "An oil cleanser for removing makeup and sunscreen as the first step of your cleansing routine.",
+    "directions_en": "Use 2–3 pumps on dry skin. Massage gently, add water to emulsify, and rinse thoroughly. Follow with a water-based cleanser.",
+    "cautions_en": "For external use only. Follow the package directions and cautions. Stop use if irritation occurs. Check the ingredient list if you have known sensitivities. Lia is an AI-created character; this page does not describe her personal use.",
+    "confirmation_note": "Original 200ml 확인. Mild·리필 등 다른 규격과 구분; 공급품 전성분·밀봉·유통기한 확인",
+    "product_source": "https://anua.com/products/heartleaf-pore-control-cleansing-oil-200ml",
+    "size_label": "200ml"
+  },
+  {
+    "id": "skin1004",
+    "brand": "SKIN1004",
+    "name": "Madagascar Centella Air-Fit Sun",
+    "category": "Sun care",
+    "image": "assets/08_skin1004.jpg",
+    "intro": {
+      "en": "50ml sun cream. Apply according to the supplied label.",
+      "vi": "Một lựa chọn chống nắng để so sánh.",
+      "ko": "함께 비교해 볼 선케어."
+    },
+    "video": null,
+    "poster": null,
+    "markets": {
+      "vn": {
+        "url": null,
+        "status": "pending"
+      },
+      "sg": {
+        "url": null,
+        "status": "pending"
+      },
+      "kr": {
+        "url": null,
+        "status": "pending"
+      }
+    },
+    "sg_detail_plan": {
+      "sections": [
+        "Meet the product with Lia",
+        "Exact size and variant",
+        "Texture and routine placement",
+        "How to use",
+        "Ingredients and cautions",
+        "Delivery to Singapore",
+        "Order on Shopee"
+      ],
+      "image_slots": [
+        "Front packaging",
+        "Back label",
+        "Texture or format",
+        "Lia introduction"
+      ],
+      "status": "supply_and_images_pending"
+    },
+    "description_en": "50ml sun cream. Apply according to the supplied label.",
+    "directions_en": "Follow the directions and cautions printed on the confirmed supplied product.",
+    "cautions_en": "For external use only. Stop use if irritation occurs. Lia is an AI-created character.",
+    "confirmation_note": "Plus와 Light 구분·SPF 라벨·전성분 확인",
+    "product_source": "https://www.skin1004.com/products/skin1004-madagascar-centella-air-fit-suncream-plus",
+    "size_label": "50ml — Plus version"
+  },
+  {
+    "id": "banilaco",
+    "brand": "banila co",
+    "name": "Clean It Zero Cleansing Balm",
+    "category": "Cleanser",
+    "image": "assets/10_banilaco.jpg",
+    "intro": {
+      "en": "A balm-to-oil cleanser for the first step of removing makeup. Scoop, massage, emulsify and rinse.",
+      "vi": "Khám phá bước làm sạch với sáp.",
+      "ko": "밤 타입의 클렌징을 살펴보세요."
+    },
+    "video": null,
+    "poster": null,
+    "markets": {
+      "vn": {
+        "url": null,
+        "status": "pending"
+      },
+      "sg": {
+        "url": null,
+        "status": "pending"
+      },
+      "kr": {
+        "url": null,
+        "status": "pending"
+      }
+    },
+    "sg_detail_plan": {
+      "sections": [
+        "Meet the product with Lia",
+        "Exact size and variant",
+        "Texture and routine placement",
+        "How to use",
+        "Ingredients and cautions",
+        "Delivery to Singapore",
+        "Order on Shopee"
+      ],
+      "image_slots": [
+        "Front packaging",
+        "Back label",
+        "Texture or format",
+        "Lia introduction"
+      ],
+      "status": "supply_and_images_pending"
+    },
+    "description_en": "A balm-to-oil cleanser for the first step of removing makeup. Scoop, massage, emulsify and rinse.",
+    "directions_en": "Scoop with the spatula. Gently massage onto dry skin. Add water to emulsify, then rinse with lukewarm water.",
+    "cautions_en": "For external use only. Follow the package directions and cautions. Stop use if irritation occurs. Check the ingredient list if you have known sensitivities. Lia is an AI-created character; this page does not describe her personal use.",
+    "confirmation_note": "Original 100ml 세대·전성분 확인. 미국 공식 설명과 한국 공급 버전 일치 확인",
+    "product_source": "https://banilausa.com/products/clean-it-zero-cleansing-balm-original_100ml",
+    "size_label": "100ml"
+  },
+  {
+    "id": "roundlab",
+    "brand": "Round Lab",
+    "name": "1025 Dokdo Toner 200ml",
+    "category": "Toner",
+    "image": "assets/roundlab-pending.svg",
+    "intro": {
+      "en": "200ml toner for a skincare step after cleansing. Follow the supplied directions.",
+      "ko": "상품 정보와 실제 판매 이미지를 준비하고 있습니다.",
+      "vi": "Đang chuẩn bị thông tin sản phẩm."
+    },
+    "video": null,
+    "poster": null,
+    "markets": {
+      "vn": {
+        "url": null,
+        "status": "pending"
+      },
+      "sg": {
+        "url": null,
+        "status": "pending"
+      },
+      "kr": {
+        "url": null,
+        "status": "pending"
+      }
+    },
+    "sg_detail_plan": {
+      "sections": [
+        "Meet the product with Lia",
+        "Exact size and variant",
+        "Texture and routine placement",
+        "How to use",
+        "Ingredients and cautions",
+        "Delivery to Singapore",
+        "Order on Shopee"
+      ],
+      "image_slots": [
+        "Front packaging",
+        "Back label",
+        "Texture or format",
+        "Lia introduction"
+      ],
+      "status": "supply_and_images_pending"
+    },
+    "description_en": "200ml toner for a skincare step after cleansing. Follow the supplied directions.",
+    "directions_en": "Follow the directions and cautions printed on the confirmed supplied product.",
+    "cautions_en": "For external use only. Stop use if irritation occurs. Lia is an AI-created character.",
+    "confirmation_note": "200ml 단품·한국 공급 버전·포장중량 확인",
+    "product_source": "https://roundlab.com/products/1025-dokdo-toner?variant=43023567749334",
+    "size_label": "200ml"
+  },
+  {
+    "id": "aestura",
+    "brand": "AESTURA",
+    "name": "ATOBARRIER365 Cream 80ml",
+    "category": "Cream",
+    "image": "assets/aestura-pending.svg",
+    "intro": {
+      "en": "80ml cream for a moisturising skincare step. Follow the package directions.",
+      "ko": "상품 정보와 실제 판매 이미지를 준비하고 있습니다.",
+      "vi": "Đang chuẩn bị thông tin sản phẩm."
+    },
+    "video": null,
+    "poster": null,
+    "markets": {
+      "vn": {
+        "url": null,
+        "status": "pending"
+      },
+      "sg": {
+        "url": null,
+        "status": "pending"
+      },
+      "kr": {
+        "url": null,
+        "status": "pending"
+      }
+    },
+    "sg_detail_plan": {
+      "sections": [
+        "Meet the product with Lia",
+        "Exact size and variant",
+        "Texture and routine placement",
+        "How to use",
+        "Ingredients and cautions",
+        "Delivery to Singapore",
+        "Order on Shopee"
+      ],
+      "image_slots": [
+        "Front packaging",
+        "Back label",
+        "Texture or format",
+        "Lia introduction"
+      ],
+      "status": "supply_and_images_pending"
+    },
+    "description_en": "80ml cream for a moisturising skincare step. Follow the package directions.",
+    "directions_en": "Follow the directions and cautions printed on the confirmed supplied product.",
+    "cautions_en": "For external use only. Stop use if irritation occurs. Lia is an AI-created character.",
+    "confirmation_note": "제품 세대·기획세트 제외·전성분·매입가 확인",
+    "product_source": "https://www.aritaum.com/shop/pr/productView/P0000000000000043214.do",
+    "size_label": "80ml — generation pending"
+  }
+]
